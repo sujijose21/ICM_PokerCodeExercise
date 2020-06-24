@@ -1,0 +1,5 @@
+E:\ThreadCheck\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\ThreadCheck\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\ThreadCheck\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\ThreadCheck\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\ThreadCheck\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

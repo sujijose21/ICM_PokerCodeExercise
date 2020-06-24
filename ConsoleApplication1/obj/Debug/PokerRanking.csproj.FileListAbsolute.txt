@@ -1,0 +1,13 @@
+E:\ThreadCheck\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\PokerCode\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\PokerCode\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\PokerCode\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\PokerCode\ConsoleApplication1\obj\Debug\PokerRanking.csprojResolveAssemblyReference.cache
+E:\PokerCode\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\PokerCode\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\CodeExercise\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\CodeExercise\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\CodeExercise\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\CodeExercise\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\CodeExercise\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\CodeExercise\ConsoleApplication1\obj\Debug\PokerRanking.csprojResolveAssemblyReference.cache
